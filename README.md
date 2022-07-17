@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course CSS Animation. The full course is available from [LinkedIn Learning][lil-course-url].
+# COURSENAME - LINKEDIN
+>This is the repository for the LinkedIn Learning course CSS Animation. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
